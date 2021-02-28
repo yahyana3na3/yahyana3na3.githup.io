@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+.header{
+    text-align: center;
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+input{
+    width:30%;
+}
+
+form{
+    padding-top:5% ;
+}
+
+.id{
+    padding-right: 3%;
+}
+.GPA{
+    padding-right: 1.4%;
+}
